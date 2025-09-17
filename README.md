@@ -56,8 +56,10 @@
 <summary><font size="5"><b>2025</b></font></summary>
 
 - [TOC](#toc)
-- 2025/9/14
+- 2025/09/14
 - ![2025/9/14](https://github.com/gtuja/GFL/blob/main/Materials/Screenshot/20250914_collage.png)
+- 2025/09/07
+- ![2025/9/14](https://github.com/gtuja/GFL/blob/main/Materials/Screenshot/20250907_collage.png)
 </details>
 
 <div id="2024"></div>
