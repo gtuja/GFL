@@ -1,12 +1,12 @@
 ![latest tag](https://img.shields.io/github/v/tag/gtuja/GFL.svg?color=brightgreen)
 [![Overview](https://img.shields.io/badge/Overview-brightgreen
-)](https://github.com/gtuja/GFL/blob/README.md#Overview)
+)](https://github.com/gtuja/GFL/blob/main/README.md#Overview)
 [![2025](https://img.shields.io/badge/2025-brightgreen
-)](https://github.com/gtuja/GFL/blob/README.md#2025)
+)](https://github.com/gtuja/GFL/blob/main/README.md#2025)
 [![2024](https://img.shields.io/badge/2024-brightgreen
-)](https://github.com/gtuja/GFL/blob/README.md#2024)
+)](https://github.com/gtuja/GFL/blob/main/README.md#2024)
 [![2023](https://img.shields.io/badge/2023-brightgreen
-)](https://github.com/gtuja/GFL/blob/README.md#2023)
+)](https://github.com/gtuja/GFL/blob/main/README.md#2023)
 
 # GFL (G? Fishing Life)
 
@@ -43,7 +43,7 @@
 <summary><font size="5"><b>釣果分析</b></font></summary>
 
 - [TOC](#toc)
-- ![Overview](https://github.com/gtuja/GFL/blob/Materials\Screenshot\Overview.png)
+- ![Overview](https://github.com/gtuja/GFL/blob/main/Materials/Screenshot/Overview.png)
 - この釣り場は潮の下げ５分から干潮までがよく釣れるようです。
 - 潮見表は[釣割](https://tide.chowari.jp/28/282049/23182/)か[SmailNetBBS](https://www2q.biglobe.ne.jp/~ooue_h-h/i/tide/s_tide.cgi?4&ozaki&0&0&&2023&06&10&)を参考にしましょう。
 </details>
@@ -54,7 +54,7 @@
 
 - [TOC](#toc)
 - 2025/9/14
-- ![2025/9/14](https://github.com/gtuja/GFL/blob/Materials\Screenshot\20250914_collage.png)
+- ![2025/9/14](https://github.com/gtuja/GFL/blob/main/Materials/Screenshot/20250914_collage.png)
 </details>
 
 <div id="2024"></div>
@@ -83,10 +83,11 @@
 
 ![latest tag](https://img.shields.io/github/v/tag/gtuja/GFL.svg?color=brightgreen)
 [![Overview](https://img.shields.io/badge/Overview-brightgreen
-)](https://github.com/gtuja/GFL/blob/README.md#Overview)
+)](https://github.com/gtuja/GFL/blob/main/README.md#Overview)
 [![2025](https://img.shields.io/badge/2025-brightgreen
-)](https://github.com/gtuja/GFL/blob/README.md#2025)
+)](https://github.com/gtuja/GFL/blob/main/README.md#2025)
 [![2024](https://img.shields.io/badge/2024-brightgreen
-)](https://github.com/gtuja/GFL/blob/README.md#2024)
+)](https://github.com/gtuja/GFL/blob/main/README.md#2024)
 [![2023](https://img.shields.io/badge/2023-brightgreen
-)](https://github.com/gtuja/GFL/blob/README.md#2023)
+)](https://github.com/gtuja/GFL/blob/main/README.md#2023)
+
