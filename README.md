@@ -14,40 +14,40 @@
 <details open>
 <summary><font size="5"><b>Table of Contents</b></font></summary>
 
-- [環境](#Environment)
-- [釣果分析](#Overview)
+- [Concept](#Concept)
+- [釣果分析](#Analysis)
 - [2025](#2025)
 - [2024](#2024)
 - [2023](#2023)
 - [Reference](#Reference)
 </details>
 
-<div id="Environment"></div>
+<div id="Concept"></div>
 <details open>
-<summary><font size="5"><b>環境</b></font></summary>
+<summary><font size="5"><b>Concept</b></font></summary>
 
 - [TOC](#toc)
-- 釣り場
-  - [鳴尾浜海釣り公園](https://www.naruohama-park.com/umizuri/)
-  - [アクセス](https://www.naruohama-park.com/#access)
-- タックル
-  - ダイワ DX大島２号54（古すぎてスペック不明）
-  - [ダイワ リバティクラブサーフＴ　１５－３６０・Ｋ](https://www.daiwa.com/jp/product/obywwcy)
-  - [シマノ FX C-3000, 150m](https://fish.shimano.com/ja-JP/product/reel/hanyouspinning/a075f00003hspk0qan_l.html)
-- 仕掛け
-  - ![ぶっこみ釣り](https://images.tsurihack.com/wp-content/uploads/2019/05/shikake_bukkomi.jpg) 
+- このコンテンツは近年の釣果を整理することと、その傾向を分析することを目的とします。
+- 釣り場 #1 : [鳴尾浜海釣り公園](https://www.naruohama-park.com/umizuri/)
+  - 安い（入場料：300円、駐車代：1000円）、きれいなトイレ
+  - 土日祝は開園時間前(40分前程度)に並ばないと満員で入れない可能性大
+  - エサ取りも少なく、[ぶっこみ釣り](https://images.tsurihack.com/wp-content/uploads/2019/05/shikake_bukkomi.jpg)がメインでのんびり楽しめる
+  - ★チャリで行ける（うちからですが・・・）
+- 釣り場 #2 : [和歌山・マリーナシティ大波止](https://www.tsurisoku.com/news/79895/)
+  - 色々釣れる（アジ、サバ、ヒラメ、青物、スズキ、アコウ、太刀魚などなど）
+  - 昔の写真がなくなったので、今度行ったら釣果を更新する
 </details>
 
-<div id="Overview"></div>
+<div id="Analysis"></div>
 <details open>
-<summary><font size="5"><b>釣果分析</b></font></summary>
+<summary><font size="5"><b>釣果分析：鳴尾浜海釣り公園</b></font></summary>
 
 - [TOC](#toc)
-- 釣果分析
+- 釣果・潮
 - ![Overview](https://github.com/gtuja/GFL/blob/main/Materials/Screenshot/Overview.png)
 - 釣果一覧
 - ![List](https://github.com/gtuja/GFL/blob/main/Materials/Screenshot/List.png)
-- この釣り場は潮の下げ５分から干潮までがよく釣れるようです。
+- 潮の下げ５分から干潮までがよく釣れる。全体釣果の**50%!**
 - 潮見表は[釣割](https://tide.chowari.jp/28/282049/23182/)か[SmailNetBBS](https://www2q.biglobe.ne.jp/~ooue_h-h/i/tide/s_tide.cgi?4&ozaki&0&0&&2023&06&10&)を参考にしましょう。
 </details>
 
@@ -56,10 +56,10 @@
 <summary><font size="5"><b>2025</b></font></summary>
 
 - [TOC](#toc)
-- 2025/09/14
-- ![2025/9/14](https://github.com/gtuja/GFL/blob/main/Materials/Screenshot/20250914_collage.png)
-- 2025/09/07
-- ![2025/9/14](https://github.com/gtuja/GFL/blob/main/Materials/Screenshot/20250907_collage.png)
+- 2025/09/14 : 鳴尾浜海釣り公園<br>
+![2025/09/14 Tide](https://github.com/gtuja/GFL/blob/main/Materials/Screenshot/20250914.png)![2025/09/14 FR](https://github.com/gtuja/GFL/blob/main/Materials/GFL/Materials/Picture/resize/CK_2025_0914_1047_キビレ_35.jpg)
+- 2025/09/07 : 鳴尾浜海釣り公園<br>
+![2025/09/07 Tide](https://github.com/gtuja/GFL/blob/main/Materials/Screenshot/20250907.png)![2025/09/07](https://github.com/gtuja/GFL/blob/main/Materials/GFL/Materials/Picture/resize/CK_2025_0907_0900_キビレ_42.jpg)
 </details>
 
 <div id="2024"></div>
