@@ -12,7 +12,7 @@
 
 <div id="toc"></div>
 <details open>
-<summary><font size="5"><b>Table of Contents</b></font></summary>
+<summary><font size="6"><b>Table of Contents</b></font></summary>
 
 - [Concept](#Concept)
 - [釣果分析：鳴尾浜海釣り公園](#Analysis1)
@@ -24,15 +24,15 @@
 
 <div id="Concept"></div>
 <details open>
-<summary><font size="5"><b>Concept</b></font></summary>
+<summary><font size="6"><b>Concept</b></font></summary>
 
 - [TOC](#toc)
 - このコンテンツは近年の釣果を整理することと、その傾向を分析することを目的とします。
 - 釣り場 #1 : [鳴尾浜海釣り公園](https://www.naruohama-park.com/umizuri/)
   - 安い（入場料：300円、駐車代：1000円）、きれいなトイレ
-  - エサ取りも少なく、[ぶっこみ釣り](https://images.tsurihack.com/wp-content/uploads/2019/05/shikake_bukkomi.jpg)がメインでのんびり楽しめる。
+  - エサ取りも少なく、[ぶっこみ釣り](https://images.tsurihack.com/wp-content/uploads/2019/05/shikake_bukkomi.jpg)、[泳がせ釣り](https://fish.shimano.com/ja-JP/content/beginners/fishingstyle/baitfishing/oyogase/index.html)などで、のんびり楽しめる。
   - ★チャリで行ける（うちからですが・・・）
-  - 土日祝は開園時間前(40分前程度)に並ばないと満員で入れない可能性大。
+  - 土日祝は開園時間前(40分前程度)に並ばないと満員で入れない可能性あり。
 - 釣り場 #2 : [和歌山・マリーナシティ大波止](https://www.tsurisoku.com/news/79895/)
   - 色々釣れる（アジ、サバ、ヒラメ、青物、スズキ、アコウ、太刀魚などなど）
   - 昔の写真がなくなったので、今度行ったら釣果を更新する
@@ -40,20 +40,20 @@
 
 <div id="Analysis1"></div>
 <details open>
-<summary><font size="5"><b>釣果分析：鳴尾浜海釣り公園</b></font></summary>
+<summary><font size="6"><b>釣果分析：鳴尾浜海釣り公園</b></font></summary>
 
 - [TOC](#toc)
 - 釣果・潮
 - ![Overview](https://github.com/gtuja/GFL/blob/main/Materials/Screenshot/Overview.png)
 - 釣果一覧
 - ![List](https://github.com/gtuja/GFL/blob/main/Materials/Screenshot/List%231.png)
-- 潮の下げ５分から干潮までがよく釣れる。全体釣果の**50%!**
+- データからは潮の下げ５分から干潮までがよく釣れる。全体釣果の**50%!**
 - 潮見表は[釣割](https://tide.chowari.jp/28/282049/23182/)か[SmailNetBBS](https://www2q.biglobe.ne.jp/~ooue_h-h/i/tide/s_tide.cgi?4&ozaki&0&0&&2023&06&10&)を参考にしましょう。
 </details>
 
 <div id="2025"></div>
 <details open>
-<summary><font size="5"><b>2025</b></font></summary>
+<summary><font size="6"><b>2025</b></font></summary>
 
 - [TOC](#toc)
 - 2025/09/14 : 鳴尾浜海釣り公園<br>
@@ -70,7 +70,7 @@
 
 <div id="2024"></div>
 <details open>
-<summary><font size="5"><b>2024</b></font></summary>
+<summary><font size="6"><b>2024</b></font></summary>
 
 - [TOC](#toc)
 - 2024/08/15 : 鳴尾浜海釣り公園<br>
@@ -87,7 +87,7 @@
 
 <div id="2023"></div>
 <details open>
-<summary><font size="5"><b>2023</b></font></summary>
+<summary><font size="6"><b>2023</b></font></summary>
 
 - [TOC](#toc)
 - 2023/08/10 : 鳴尾浜海釣り公園<br>
@@ -108,7 +108,7 @@
 
 <div id="Reference"></div>
 <details open>
-<summary><font size="5"><b>Reference</b></font></summary>
+<summary><font size="6"><b>Reference</b></font></summary>
 
 - [TOC](#toc)
 - [釣割](https://tide.chowari.jp/28/282049/23182/)
