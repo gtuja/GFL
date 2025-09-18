@@ -15,7 +15,7 @@
 <summary><font size="5"><b>Table of Contents</b></font></summary>
 
 - [Concept](#Concept)
-- [釣果分析](#Analysis)
+- [釣果分析：鳴尾浜海釣り公園](#Analysis1)
 - [2025](#2025)
 - [2024](#2024)
 - [2023](#2023)
@@ -30,15 +30,15 @@
 - このコンテンツは近年の釣果を整理することと、その傾向を分析することを目的とします。
 - 釣り場 #1 : [鳴尾浜海釣り公園](https://www.naruohama-park.com/umizuri/)
   - 安い（入場料：300円、駐車代：1000円）、きれいなトイレ
-  - 土日祝は開園時間前(40分前程度)に並ばないと満員で入れない可能性大
-  - エサ取りも少なく、[ぶっこみ釣り](https://images.tsurihack.com/wp-content/uploads/2019/05/shikake_bukkomi.jpg)がメインでのんびり楽しめる
+  - エサ取りも少なく、[ぶっこみ釣り](https://images.tsurihack.com/wp-content/uploads/2019/05/shikake_bukkomi.jpg)がメインでのんびり楽しめる。
   - ★チャリで行ける（うちからですが・・・）
+  - 土日祝は開園時間前(40分前程度)に並ばないと満員で入れない可能性大。
 - 釣り場 #2 : [和歌山・マリーナシティ大波止](https://www.tsurisoku.com/news/79895/)
   - 色々釣れる（アジ、サバ、ヒラメ、青物、スズキ、アコウ、太刀魚などなど）
   - 昔の写真がなくなったので、今度行ったら釣果を更新する
 </details>
 
-<div id="Analysis"></div>
+<div id="Analysis1"></div>
 <details open>
 <summary><font size="5"><b>釣果分析：鳴尾浜海釣り公園</b></font></summary>
 
@@ -59,7 +59,7 @@
 - 2025/09/14 : 鳴尾浜海釣り公園<br>
 ![2025/09/14 Tide](https://github.com/gtuja/GFL/blob/main/Materials/Screenshot/20250914.png)
 ![2025/09/14 FR](https://github.com/gtuja/GFL/blob/main/Materials/Picture/resize/CK_2025_0914_1047_%E3%82%AD%E3%83%93%E3%83%AC_35.jpg)
-- 2025/09/07 : 鳴尾浜海釣り公園、★キビレ(42cm))<br>
+- 2025/09/07 : 鳴尾浜海釣り公園、★キビレ(42cm)<br>
 ![2025/09/07 Tide](https://github.com/gtuja/GFL/blob/main/Materials/Screenshot/20250907.png)
 ![2025/09/07 FR](https://github.com/gtuja/GFL/blob/main/Materials/Picture/resize/CK_2025_0907_0900_%E3%82%AD%E3%83%93%E3%83%AC_42.jpg)
 - 2025/07/20 : 鳴尾浜海釣り公園<br>
@@ -113,6 +113,7 @@
 - [TOC](#toc)
 - [釣割](https://tide.chowari.jp/28/282049/23182/)
 - [SmailNetBBS](https://www2q.biglobe.ne.jp/~ooue_h-h/i/tide/s_tide.cgi?4&ozaki&0&0&&2023&06&10&)
+- [クーラーボックスは改造](https://www.kanakazufufu55.com/syatyuhaku-refrigerator-remodeling/)
 </details>
 <br>
 
