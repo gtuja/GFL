@@ -59,7 +59,7 @@
 - 2025/09/14 : 鳴尾浜海釣り公園<br>
 ![2025/09/14 Tide](https://github.com/gtuja/GFL/blob/main/Materials/Screenshot/20250914.png)
 ![2025/09/14 FR](https://github.com/gtuja/GFL/blob/main/Materials/Picture/resize/CK_2025_0914_1047_%E3%82%AD%E3%83%93%E3%83%AC_35.jpg)
-- 2025/09/07 : 鳴尾浜海釣り公園<br>
+- 2025/09/07 : 鳴尾浜海釣り公園、★キビレ(42cm))<br>
 ![2025/09/07 Tide](https://github.com/gtuja/GFL/blob/main/Materials/Screenshot/20250907.png)
 ![2025/09/07 FR](https://github.com/gtuja/GFL/blob/main/Materials/Picture/resize/CK_2025_0907_0900_%E3%82%AD%E3%83%93%E3%83%AC_42.jpg)
 - 2025/07/20 : 鳴尾浜海釣り公園<br>
@@ -93,10 +93,17 @@
 - 2023/08/10 : 鳴尾浜海釣り公園<br>
 ![2023/08/10 Tide](https://github.com/gtuja/GFL/blob/main/Materials/Screenshot/20230810.png)
 ![2023/08/10 FR](https://github.com/gtuja/GFL/blob/main/Materials/Picture/resize/CK_2023_0810_0643_%E3%82%AD%E3%83%93%E3%83%AC_40.jpg)
-- 2023/07/12 : 鳴尾浜海釣り公園<br>
+- 2023/07/12 : 鳴尾浜海釣り公園、★チヌ(48cm)<br>
 ![2023/07/12 Tide](https://github.com/gtuja/GFL/blob/main/Materials/Screenshot/20230712.png)
 ![2023/07/12 FR](https://github.com/gtuja/GFL/blob/main/Materials/Picture/resize/CK_2023_0712_0915_%E3%83%81%E3%83%8C_48.jpg)
-
+- 2023/07/07 : 鳴尾浜海釣り公園<br>
+![2023/07/07 Tide](https://github.com/gtuja/GFL/blob/main/Materials/Screenshot/20230707.png)
+![2023/07/07 FR#1](https://github.com/gtuja/GFL/blob/main/Materials/Picture/resize/CK_2023_0707_0652_%E3%82%AD%E3%83%93%E3%83%AC_36.jpg)
+![2023/07/07 FR#2](https://github.com/gtuja/GFL/blob/main/Materials/Picture/resize/CK_2023_0707_0904_%E3%82%AE%E3%83%9E_28.jpg)
+![2023/07/07 FR#3](https://github.com/gtuja/GFL/blob/main/Materials/Picture/resize/CK_2023_0707_0928_%E3%82%AD%E3%83%93%E3%83%AC_40.jpg)
+- 2023/06/10 : 鳴尾浜海釣り公園<br>
+![2023/06/10 Tide](https://github.com/gtuja/GFL/blob/main/Materials/Screenshot/20230610.png)
+![2023/06/10 FR](https://github.com/gtuja/GFL/blob/main/Materials/Picture/resize/CK_2023_0610_1231_%E3%82%AD%E3%83%93%E3%83%AC_20.jpg)
 </details>
 
 <div id="Reference"></div>
