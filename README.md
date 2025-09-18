@@ -46,7 +46,7 @@
 - 釣果・潮
 - ![Overview](https://github.com/gtuja/GFL/blob/main/Materials/Screenshot/Overview.png)
 - 釣果一覧
-- ![List](https://github.com/gtuja/GFL/blob/main/Materials/Screenshot/List.png)
+- ![List](https://github.com/gtuja/GFL/blob/main/Materials/Screenshot/List#1.png)
 - 潮の下げ５分から干潮までがよく釣れる。全体釣果の**50%!**
 - 潮見表は[釣割](https://tide.chowari.jp/28/282049/23182/)か[SmailNetBBS](https://www2q.biglobe.ne.jp/~ooue_h-h/i/tide/s_tide.cgi?4&ozaki&0&0&&2023&06&10&)を参考にしましょう。
 </details>
@@ -57,9 +57,15 @@
 
 - [TOC](#toc)
 - 2025/09/14 : 鳴尾浜海釣り公園<br>
-| ![2025/09/14 Tide](https://github.com/gtuja/GFL/blob/main/Materials/Screenshot/20250914.png) | ![2025/09/14 FR](https://github.com/gtuja/GFL/blob/main/Materials/Picture/resize/CK_2025_0914_1047_%E3%82%AD%E3%83%93%E3%83%AC_35.jpg) |
+![2025/09/14 Tide](https://github.com/gtuja/GFL/blob/main/Materials/Screenshot/20250914.png)
+![2025/09/14 FR](https://github.com/gtuja/GFL/blob/main/Materials/Picture/resize/CK_2025_0914_1047_%E3%82%AD%E3%83%93%E3%83%AC_35.jpg)
 - 2025/09/07 : 鳴尾浜海釣り公園<br>
-![2025/09/07 Tide](https://github.com/gtuja/GFL/blob/main/Materials/Screenshot/20250907.png)![2025/09/07](https://github.com/gtuja/GFL/blob/main/Materials/Picture/resize/CK_2025_0907_0900_%E3%82%AD%E3%83%93%E3%83%AC_42.jpg)
+![2025/09/07 Tide](https://github.com/gtuja/GFL/blob/main/Materials/Screenshot/20250907.png)
+![2025/09/07 FR](https://github.com/gtuja/GFL/blob/main/Materials/Picture/resize/CK_2025_0907_0900_%E3%82%AD%E3%83%93%E3%83%AC_42.jpg)
+- 2025/07/20 : 鳴尾浜海釣り公園<br>
+![2025/07/20 Tide](https://github.com/gtuja/GFL/blob/main/Materials/Screenshot/20250720.png)
+![2025/07/20 FR#1](https://github.com/gtuja/GFL/blob/main/Materials/Picture/resize/CK_2025_0720_0624_%E3%83%81%E3%83%8C_30.jpg)
+![2025/07/20 FR#2](https://github.com/gtuja/GFL/blob/main/Materials/Picture/resize/CK_2025_0720_0714_%E3%82%AD%E3%83%93%E3%83%AC_25.jpg)
 </details>
 
 <div id="2024"></div>
@@ -67,6 +73,16 @@
 <summary><font size="5"><b>2024</b></font></summary>
 
 - [TOC](#toc)
+- 2024/08/15 : 鳴尾浜海釣り公園<br>
+![2024/08/15 Tide](https://github.com/gtuja/GFL/blob/main/Materials/Screenshot/20240815.png)
+![2024/08/15 FR](https://github.com/gtuja/GFL/blob/main/Materials/Picture/resize/CK_2024_0815_0525_%E3%82%AD%E3%83%93%E3%83%AC_35.jpg)
+- 2024/07/13 : 鳴尾浜海釣り公園<br>
+![2024/07/13 Tide](https://github.com/gtuja/GFL/blob/main/Materials/Screenshot/20240713.png)
+![2024/07/13 FR#1](https://github.com/gtuja/GFL/blob/main/Materials/Picture/resize/CK_2024_0713_0636_%E3%82%AD%E3%83%93%E3%83%AC_35.jpg)
+![2024/07/13 FR#2](https://github.com/gtuja/GFL/blob/main/Materials/Picture/resize/CK_2024_0713_0801_%E3%83%81%E3%83%8C_42.jpg)
+- 2024/06/24 : 鳴尾浜海釣り公園<br>
+![2024/06/24 Tide](https://github.com/gtuja/GFL/blob/main/Materials/Screenshot/20240624.png)
+![2024/06/24 FR](https://github.com/gtuja/GFL/blob/main/Materials/Picture/resize/CK_2024_0624_0653_%E3%82%AD%E3%83%93%E3%83%AC_32.jpg)
 </details>
 
 <div id="2023"></div>
@@ -74,6 +90,13 @@
 <summary><font size="5"><b>2023</b></font></summary>
 
 - [TOC](#toc)
+- 2023/08/10 : 鳴尾浜海釣り公園<br>
+![2023/08/10 Tide](https://github.com/gtuja/GFL/blob/main/Materials/Screenshot/20230810.png)
+![2023/08/10 FR](https://github.com/gtuja/GFL/blob/main/Materials/Picture/resize/CK_2023_0810_0643_%E3%82%AD%E3%83%93%E3%83%AC_40.jpg)
+- 2023/07/12 : 鳴尾浜海釣り公園<br>
+![2023/07/12 Tide](https://github.com/gtuja/GFL/blob/main/Materials/Screenshot/20230712.png)
+![2023/07/12 FR](https://github.com/gtuja/GFL/blob/main/Materials/Picture/resize/CK_2023_0712_0915_%E3%83%81%E3%83%8C_48.jpg)
+
 </details>
 
 <div id="Reference"></div>
